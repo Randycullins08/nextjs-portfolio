@@ -1,5 +1,4 @@
-// app/layout.tsx
-import "./globals.css"; // Import global styles
+import "./globals.css";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 
